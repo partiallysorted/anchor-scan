@@ -1,0 +1,160 @@
+{
+  "programs": [
+    {
+      "name": "ACUMEN",
+      "programId": "C64kTdg1Hzv5KoQmZrQRcm2Qz7PkxtFBgw7EpFhvYn8W"
+    },
+    {
+      "name": "BONFIDA_POOL",
+      "programId": "WvmTNLpGMVbwJVYztYL4Hnsy82cJhQorxjnnXcRm3b6"
+    },
+    {
+      "name": "BREAK_SOLANA",
+      "programId": "BrEAK7zGZ6dM71zUDACDqJnekihmwF15noTddWTsknjC"
+    },
+    {
+      "name": "MANGO_GOVERNANCE",
+      "programId": "GqTPL6qRf5aUuqscLh8Rg2HTxPUXfhhAXDptTLhp1t2J"
+    },
+    {
+      "name": "MANGO_ICO",
+      "programId": "7sPptkymzvayoSbLXzBsXEF8TSf3typNnAWkrKrDizNb"
+    },
+    {
+      "name": "MANGO_1",
+      "programId": "JD3bq9hGdy38PuWQ4h2YJpELmHVGPPfFSuFkpzAd9zfu"
+    },
+    {
+      "name": "MANGO_2",
+      "programId": "5fNfvyp5czQVX77yoACa3JJVEhdRaWjPuazuWgjhTqEH"
+    },
+    {
+      "name": "MANGO_3",
+      "programId": "mv3ekLzLbnVPNxjSKvqBpU3ZeZXPQdEC3bp5MDEBG68"
+    },
+    {
+      "name": "MARINADE",
+      "programId": "MarBmsSgKXdrN1egZf5sqe1TMai9K1rChYNDJgjq7aD"
+    },
+    {
+      "name": "MERCURIAL",
+      "programId": "MERLuDFBMmsHnsBPZw2sDQZHvXFMwp8EdjudcU2HKky"
+    },
+    {
+      "name": "METAPLEX",
+      "programId": "p1exdMJcjVao65QdewkaZRUnU6VPSXhus9n2GzWfh98"
+    },
+    {
+      "name": "NFT_AUCTION",
+      "programId": "auctxRXPeJoc4817jDhf4HbjnhEcr1cCXenosMhK5R8"
+    },
+    {
+      "name": "NFT_CANDY_MACHINE",
+      "programId": "cndyAnrLdpjq1Ssp1z8xxDsB8dxe7u4HL5Nxi2K5WXZ"
+    },
+    {
+      "name": "ORCA_SWAP_1",
+      "programId": "DjVE6JNiYqPL2QXyCUUh8rNjHrbz9hXHNYt99MQ59qw1"
+    },
+    {
+      "name": "ORCA_SWAP_2",
+      "programId": "9W959DqEETiGZocYWCQPaJ6sBmUzgfxXfqGeTEdp3aQP"
+    },
+    {
+      "name": "ORCA_AQUAFARM",
+      "programId": "82yxjeMsvaURa4MbZZ7WZZHfobirZYkH1zF8fmeGtyaQ"
+    },
+    {
+      "name": "PORT",
+      "programId": "Port7uDYB3wk6GJAw4KT1WpTeMtSu9bTcChBHkX2LfR"
+    },
+    {
+      "name": "PYTH",
+      "programId": "FsJ3A3u2vn5cTVofAjvy6y5kwABJAqYWpe4975bi2epH"
+    },
+    {
+      "name": "QUARRY_MERGE_MINE",
+      "programId": "QMMD16kjauP5knBwxNUJRZ1Z5o3deBuFrqVjBVmmqto"
+    },
+    {
+      "name": "QUARRY_MINE",
+      "programId": "QMNeHCGYnLVDn1icRAfQZpjPLBNkfGbSKRB83G5d8KB"
+    },
+    {
+      "name": "QUARRY_MINT_WRAPPER",
+      "programId": "QMWoBmAyJLAsA1Lh9ugMTw2gciTihncciphzdNzdZYV"
+    },
+    {
+      "name": "QUARRY_REDEEMER",
+      "programId": "QRDxhMw1P2NEfiw5mYXG79bwfgHTdasY2xNP76XSea9"
+    },
+    {
+      "name": "QUARRY_REGISTRY",
+      "programId": "QREGBnEj9Sa5uR91AV8u3FxThgP5ZCvdZUW2bHAkfNc"
+    },
+    {
+      "name": "RAYDIUM_AMM",
+      "programId": "675kPX9MHTjS2zt1qfr1NYHuzeLXfQM9H24wFSUt1Mp8"
+    },
+    {
+      "name": "RAYDIUM_IDO",
+      "programId": "9HzJyW1qZsEiSfMUf6L2jo3CcTKAyBmSyKdwQeYisHrC"
+    },
+    {
+      "name": "RAYDIUM_LP_1",
+      "programId": "RVKd61ztZW9GUwhRbbLoYVRE5Xf1B2tVscKqwZqXgEr"
+    },
+    {
+      "name": "RAYDIUM_LP_2",
+      "programId": "27haf8L6oxUeXrHrgEgsexjSY5hbVUWEmvv9Nyxg8vQv"
+    },
+    {
+      "name": "RAYDIUM_STAKING",
+      "programId": "EhhTKczWMGQt46ynNeRX1WfeagwwJd7ufHvCDjRxjo5Q"
+    },
+    {
+      "name": "SABER_ROUTER",
+      "programId": "Crt7UoUR6QgrFrN7j8rmSQpUTNWNSitSwWvsWGf1qZ5t"
+    },
+    {
+      "name": "SABER_SWAP",
+      "programId": "SSwpkEEcbUqx4vtoEByFjSkhKdCT862DNVb52nZg1UZ"
+    },
+    {
+      "name": "SERUM_1",
+      "programId": "BJ3jrUzddfuSrZHXSCxMUUQsjKEyLmuuyZebkcaFp2fg"
+    },
+    {
+      "name": "SERUM_2",
+      "programId": "EUqojwWA2rd19FZrzeBncJsm38Jm1hEhE3zsmX3bRc2o"
+    },
+    {
+      "name": "SERUM_3",
+      "programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin"
+    },
+    {
+      "name": "SERUM_SWAP",
+      "programId": "22Y43yTVxuUkoRKdm9thyRhQ3SdgQS7c7kB6UNCiaczD"
+    },
+    {
+      "name": "SOLEND",
+      "programId": "So1endDq2YkqhipRh3WViPa8hdiSpxWy6z3Z6tMCpAo"
+    },
+    {
+      "name": "SOLIDO",
+      "programId": "CrX7kMhLC3cSsXJdT7JDgqrRVWGnUpX3gfEfxxU2NVLi"
+    },
+    {
+      "name": "STEP_SWAP",
+      "programId": "SSwpMgqNDsyV7mAgN9ady4bDVu5ySjmmXejXvy2vLt1"
+    },
+    {
+      "name": "SWITCHBOARD",
+      "programId": "DtmE9D2CSB4L5D6A15mraeEjrGMm6auWVzgaD8hK2tZM"
+    },
+    {
+      "name": "WORMHOLE",
+      "programId": "WormT3McKhFJ2RkiGpdw9GKvNCrB2aB54gb2uV9MfQC"
+    }
+  ]
+}
